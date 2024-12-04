@@ -1,2 +1,2 @@
-Zadanie 3 z lisy PWI
+Zadanie 3 z listy PWI.
 # zad3
